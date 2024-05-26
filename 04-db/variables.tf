@@ -13,3 +13,7 @@ default = {
     Terraform=true
 }
 }
+
+variable "zone_name" {
+  default = "narendra.shop"
+}
